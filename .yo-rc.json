@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.pfleaker.backend",
+      "nativeLanguage": "de"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "PFleaker",
+    "packageName": "com.pfleaker.backend",
+    "packageFolder": "com/pfleaker/backend",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzE4M2I3MDVmZTRhODMzMDMwNGJiYjdjMzUwYzg5MjM0NTNmMTMyMzVkZDc2Y2Y3MzA3YWI3Mjg3YTcwOGU5ZjRlODYxY2IzM2Q0OGQ2MWY4MjA0MTRlM2M3ZDg3YTgxZGE2NTkyNTk5N2VmOGI0ZTJmYzgzNzE3NTZiN2UxYWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1613330708647,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "de",
+    "languages": ["de", "en"],
+    "blueprints": []
+  }
+}
